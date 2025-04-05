@@ -2,8 +2,13 @@
     "posts": [
         {
             "id": 1,
+            "title": "Second Test",
+            "path": "/2025/SecondTest/Second_Test.md"
+        },
+        {
+            "id": 2,
             "title": "Test Writeup",
-            "path": "/2025/TestWriteup/TestWriteup.md"
-        }   
+            "path": "/2025/TestWriteup/Test_Writeup.md"
+        }
     ]
 }
